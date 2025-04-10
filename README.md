@@ -1,1 +1,1 @@
-# .github
+# Yoty Pay Orchestration Platform
